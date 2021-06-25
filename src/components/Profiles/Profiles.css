@@ -1,0 +1,19 @@
+.imgStyle {
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    text-align:center;
+}
+.profile {
+    text-align: center;
+    width:400px;
+    border-bottom: 1px solid gray;
+    margin: 10px;
+    padding: 20px
+}
+.btn {
+    padding: 10px 20px;
+    background-color:goldenrod;
+    cursor: pointer;
+    border:none;
+}

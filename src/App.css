@@ -1,6 +1,14 @@
-.App {
-  text-align: center;
+.user{
+  width:50%;
+   float:left;
+  margin-left: 20%;
 }
+.cart {
+  width: 20%;
+  float:left;
+}
+
+
 
 .App-logo {
   height: 40vmin;
